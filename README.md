@@ -1,6 +1,6 @@
 # About Me
 
-# Languages I
+# Languages
 
 ![image](https://user-images.githubusercontent.com/62057073/159418963-27c6719f-d4fe-4d14-80e6-9aa700c7bee9.png)
 ![image](https://user-images.githubusercontent.com/62057073/159396336-71be29c2-03b7-4981-b4f0-9f9132a0dec1.png) 
