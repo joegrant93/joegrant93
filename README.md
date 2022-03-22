@@ -1,4 +1,6 @@
-### Hi there 👋
+# About Me
+![image](https://user-images.githubusercontent.com/62057073/159394547-ac6797b6-280d-4ed5-a716-9a11876a6062.png)
+
 
 <!--
 **joegrant93/joegrant93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
